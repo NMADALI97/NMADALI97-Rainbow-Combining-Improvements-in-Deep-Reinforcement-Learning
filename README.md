@@ -2,6 +2,10 @@
 
 An implementation of Rainbow in PyTorch.Codes are borrowed from [pytorch-rainbow](https://github.com/belepi93/pytorch-rainbow), [baselines](https://github.com/openai/baselines), [NoisyNet-A3C](https://github.com/Kaixhin/NoisyNet-A3C), [RL-Adventure](https://github.com/higgsfield).
 
+## Author(s)
+
+MADALI Nabil , Mithuran Gajendran.
+
 ## Papers
 
 List of papers are:
